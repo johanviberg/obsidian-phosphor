@@ -4,9 +4,9 @@ An Obsidian theme for deep-focus writing and reading.
 
 Named for the soft, persistent glow of phosphorescent ink — text that lingers in the mind after the page goes dark.
 
-![Phosphor dark and light modes](screenshot.png)
+![Phosphor dark and light modes](screenshot-dark.png)
 
-![Phosphor light and dark modes](screenshot-reversed.png)
+![Phosphor light and dark modes](screenshot-light.png)
 
 ## Features
 

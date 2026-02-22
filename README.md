@@ -30,4 +30,4 @@ Named for the soft, persistent glow of phosphorescent ink — text that lingers 
 
 ## Author
 
-Johan Viberg
+[@jviberg](https://x.com/jviberg)
